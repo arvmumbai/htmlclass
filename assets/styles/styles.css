@@ -1,0 +1,14 @@
+p#first-para {
+    color: blue;
+}
+span {
+    color: violet;
+}
+.red-text {
+    color: red;
+}
+
+table,td{
+
+    border: 1px dotted blue;
+}
